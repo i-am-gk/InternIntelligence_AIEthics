@@ -1,4 +1,4 @@
-# Task 5 – AI Ethics & Bias Evaluation
+<img width="567" height="435" alt="Task" src="https://github.com/user-attachments/assets/0f30d7f5-23a1-4862-80e0-e28ff89ed6a0" /># Task 5 – AI Ethics & Bias Evaluation
 
 This repository contains my submission for **Task 5: AI Ethics and Bias Evaluation** as part of the Intern Intelligence AI Internship.
 
@@ -24,6 +24,8 @@ I used the **Adult Income Dataset**, trained a Logistic Regression model, and ev
 
 ## 🎥 Demo Video
 A video demonstration of this project has been uploaded on LinkedIn as required.  
-(Link to your LinkedIn post here once it’s live ✅)
+
+<img width="567" height="435" alt="Task" src="https://github.com/user-attachments/assets/69f81530-c42c-48b5-a262-ab06b6db9822" />
 
 ---
+
